@@ -6,7 +6,9 @@ A modern desktop application that automatically extracts, summarizes, and analyz
 
 ## 📸 Application Preview
 
-> 
+## 📸 Application Preview
+
+![Dashboard](assets/images/dashboard.png)
 
 ---
 
